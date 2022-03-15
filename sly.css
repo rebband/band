@@ -1,0 +1,14 @@
+html{
+	direction:rtl;
+}
+.m {
+	background:black;
+	margin: 100px 100px 600px 60px;
+	
+}
+
+.g{
+	margin: 100px 100px 600px 60px;
+	border: 20px dotted red ;
+	outline: 20px green;
+}
